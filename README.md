@@ -1,4 +1,4 @@
-SETMUSIC LIBRARY - README
+SETMUSIC LIBRARY
 =========================
 
 **Overview:**
